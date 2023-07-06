@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 💬 Ask me about
-```javascript
+```python
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
