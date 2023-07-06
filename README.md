@@ -2,6 +2,10 @@
 ### 💬 Ask me about
 ```python
 const thai = {
+  about me = """dsklgfjdslgkjdslkagjlkdsjglkjfgl
+  djksgklsjdagkljfdlkgjlfdjglfjglkfdjgkljfdgkjfd
+  kdjslkgjlkdsjglkdjslgkjdlgjldskgjldksgjlkdjgljg
+  """
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
